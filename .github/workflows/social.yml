@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://geekswg.js.cool/index.xml # 博客链接
+          blog_rss_link: https://blog.funvip.live/index.xml # 博客链接
           blog_limit: 5 # blog数量
           douban_name: geekswg # 豆瓣用户名
           douban_limit: 5 # 豆瓣最新动态数量
