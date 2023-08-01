@@ -2,11 +2,11 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://geekswg.js.cool"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World;Talk+is+Cheap%2C+Show+Me+the+Code" alt="Typing SVG" /></a>
+    <a href="https://blog.funvip.live"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World;Talk+is+Cheap%2C+Show+Me+the+Code" alt="Typing SVG" /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -23,9 +23,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
