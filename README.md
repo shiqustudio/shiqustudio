@@ -137,13 +137,13 @@ Windows                  6 hrs 17 mins       ███████████�
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/hr.gif" />
 
 <div align="center" >
 
 ```mermaid
 mindmap
-  root((毕少侠))
+  root((Fun))
     编程
       JAVA开发
       网络爬虫
@@ -170,7 +170,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
