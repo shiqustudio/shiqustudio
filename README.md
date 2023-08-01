@@ -42,11 +42,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://geekswg.github.io/posts/2023/loading-gif/' target='_blank'>Loading Gif</a> - Wed, 07 Jun 2023 19:54:12 +0800
-* <a href='https://geekswg.github.io/all-sites/idnex/' target='_blank'>毕少侠所有站点</a> - Fri, 02 Jun 2023 20:20:39 +0800
-* <a href='https://geekswg.github.io/posts/2023/timeline2/' target='_blank'>timeline2</a> - Wed, 31 May 2023 18:14:48 +0800
-* <a href='https://geekswg.github.io/posts/2023/timeline/' target='_blank'>Timeline</a> - 
-* <a href='https://geekswg.github.io/posts/2023/wps-ai-use/' target='_blank'>WPS-AI内测使用体验</a> - Mon, 29 May 2023 17:38:41 +0800
+* <a href='https://shiqustudio.github.io/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/' target='_blank'>羊毛·薅</a> - Sat, 29 Jul 2023 17:27:11 +0000
+* <a href='https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/' target='_blank'>网络工具</a> - 
+* <a href='https://shiqustudio.github.io/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/' target='_blank'>搜索引擎</a> - Fri, 07 Jul 2023 17:27:11 +0000
+* <a href='https://shiqustudio.github.io/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/' target='_blank'>如何提问：提问的智慧</a> - 
+* <a href='https://shiqustudio.github.io/tools/%E4%B9%A6%E7%AD%BE/' target='_blank'>书签工具</a> - Sat, 01 Jul 2023 17:27:11 +0000
 <!-- END_SECTION:blog -->
 
 </td></tr>
