@@ -10,7 +10,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://geekswg.js.cool/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.funvip.live/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/geekswg/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@geekswg"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
@@ -39,7 +39,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
   
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://shiqustudio.github.io/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/' target='_blank'>羊毛·薅</a> - Sat, 29 Jul 2023 17:27:11 +0000
@@ -55,7 +55,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/35525475/' target='_blank'>在看公诉</a> 🌟🌟🌟☆☆ 还行- 2023-06-09
@@ -245,5 +245,5 @@ mindmap
 
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/geekswg/geekswg/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/rocket.png"/>
 </div>
