@@ -28,6 +28,9 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<!-- Add the following to your README.md to embed Repobeats -->
+![Alt](https://repobeats.axiom.co/api/embed/d433f4a9939cebb9d44031f91d0f2fd012119cf5.svg "Repobeats analytics image")
+
 </div>
 
 #  🙋 Hello
