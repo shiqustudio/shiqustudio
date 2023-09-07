@@ -48,8 +48,8 @@
 * <a href='https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🧩Github</a> - Mon, 21 Aug 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🧠Ai工具</a> - Wed, 09 Aug 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/posts/aisummary/' target='_blank'>🤖Ai知识集</a> - Sat, 22 Jul 2023 21:27:11 +0000
+* <a href='https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/' target='_blank'>✍️英语学习</a> - Sat, 22 Jul 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/' target='_blank'>🐵编程学习</a> - Sat, 22 Jul 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/' target='_blank'>📝英语学习</a> - Sat, 22 Jul 2023 17:27:11 +0000
 <!-- END_SECTION:blog -->
 
 </td></tr>
