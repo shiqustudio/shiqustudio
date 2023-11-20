@@ -143,7 +143,7 @@ No Activity Tracked This Week
 
 ```mermaid
 mindmap
-  root((Fun))
+  root((Fun's))
     编程
       JAVA开发
       网络爬虫
@@ -154,13 +154,13 @@ mindmap
       风景
     旅行
       西安
-      甘肃平凉
-      甘肃张掖
-      山西太原
-      天津
+      延安
+      张掖
+      南阳
+      成都
       江苏南京
-      安徽合肥
-      寿县
+      上海
+      深圳
     阅读
       人物传记
       个人成长
