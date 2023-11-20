@@ -59,7 +59,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/man_run.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/35525475/' target='_blank'>在看公诉</a> 🌟🌟🌟☆☆ 还行- 2023-06-09
@@ -177,6 +177,9 @@ mindmap
       计算机技术
 ```
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/hr.gif" />
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -193,7 +196,10 @@ mindmap
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-  
+
+<!-- technologist.png 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/technologist.png" alt="Man Lifting Weights" width="250" height="250" />
+
 🧠 计划学习
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -207,6 +213,9 @@ mindmap
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+
+<!-- partying .png 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/partying .png" alt="Man Lifting Weights" width="250" height="250" />
 
 🧰 常用的工具
 
