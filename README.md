@@ -47,11 +47,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/' target='_blank'>💿文件存储</a> - 
+* <a href='https://blog.funvip.live/tools/github%E5%8A%A0%E9%80%9F/' target='_blank'>🧩Github加速</a> - 
 * <a href='https://blog.funvip.live/dailyshare/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🎧音乐软件</a> - 
 * <a href='https://blog.funvip.live/tools/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/' target='_blank'>📰英文翻译</a> - 
-* <a href='https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🧩Github</a> - Mon, 21 Aug 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🧠Ai工具</a> - Wed, 09 Aug 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/posts/aisummary/' target='_blank'>🤖Ai知识集</a> - Sat, 22 Jul 2023 21:27:11 +0000
+* <a href='https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/' target='_blank'>🧩开源资源</a> - Mon, 21 Aug 2023 17:27:11 +0000
 <!-- END_SECTION:blog -->
 
 </td></tr>
