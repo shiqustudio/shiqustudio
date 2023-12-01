@@ -47,11 +47,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.funvip.live/dailyshare/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90/' target='_blank'>🎬影视资源</a> - Wed, 29 Nov 2023 17:27:11 +0000
+* <a href='https://blog.funvip.live/dailyshare/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/' target='_blank'>🎞️视频下载</a> - Wed, 29 Nov 2023 17:27:11 +0000
+* <a href='https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/' target='_blank'>🗺️书籍搜索</a> - 
 * <a href='https://blog.funvip.live/tools/%E9%98%B2%E7%9B%97%E9%93%BE/' target='_blank'>⛓️防盗链</a> - Sun, 26 Nov 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/' target='_blank'>⬇️下载工具</a> - Sun, 26 Nov 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/' target='_blank'>🎯公共DoH</a> - Sun, 26 Nov 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/tools/ssl%E8%AF%81%E4%B9%A6/' target='_blank'>🔑SSL证书</a> - Sun, 26 Nov 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%88%86%E4%BA%AB/' target='_blank'>🚀在线分享</a> - Sun, 26 Nov 2023 17:27:11 +0000
 <!-- END_SECTION:blog -->
 
 </td></tr>
