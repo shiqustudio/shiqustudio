@@ -47,11 +47,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/shiqustudio/shiqustudio/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/' target='_blank'>🈴合集资源</a> - Mon, 04 Dec 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/tools/ocr%E8%AF%86%E5%88%AB/' target='_blank'>🔣OCR识别</a> - Sat, 02 Dec 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/dailyshare/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/' target='_blank'>🎥视频剪辑</a> - Fri, 01 Dec 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/dailyshare/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90/' target='_blank'>🎬影视资源</a> - Wed, 29 Nov 2023 17:27:11 +0000
 * <a href='https://blog.funvip.live/dailyshare/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/' target='_blank'>🎞️视频下载</a> - Wed, 29 Nov 2023 17:27:11 +0000
-* <a href='https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/' target='_blank'>🗺️书籍搜索</a> - 
 <!-- END_SECTION:blog -->
 
 </td></tr>
